@@ -30,7 +30,7 @@ function handleSubmit() {
         //Reset the numbr of tries for the next level
 
         if(level==11) {
-            window.location.replace("winner.html")
+            window.location.replace("./public/winner.html")
             //Redirect the user to 'winner.html' if the user reaches level 10
         }
     } else {
