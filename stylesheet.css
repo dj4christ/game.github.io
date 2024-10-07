@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(16, 16, 16);
+    color: white;
+    text-align: center;
+}
+#loginLabel {
+    color: white;
+    font-size: 60px;
+    font-family: "Cambria";
+}
+#container1 {
+    text-align: right;
+    padding-right: 35%;
+}
+#usernameParagraph {
+    color: white;
+    font-size: 30px;
+    font-family: "Cambria";
+    padding-top: 150px;
+}
+#usernameInput {
+    font-size: 25px;
+    font-family: "Cambria";
+}
+#passwordParagraph {
+    color: white;
+    font-size: 30px;
+    font-family: "Cambria";
+    padding-top: 10px;
+}
+#passwordInput {
+    font-size: 25px;
+    font-family: "Cambria";
+}
+#buttonGo {
+    background-color: red;
+    color: black;
+    font-family: "Gill Sans";
+    font-size: 30px;
+    border: none;
+    border-radius: 10px;
+}
