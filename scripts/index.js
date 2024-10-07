@@ -5,7 +5,7 @@ const passwordInput = document.getElementById("passwordInput");
 goButton.addEventListener("click", function (){
     if(usernameInput.value == "Abigail Griffiths") {
         if(passwordInput.value == "1232589875") {
-            window.location.replace("mainGame.html")
+            window.location.replace("../public/mainGame.html")
         } else {
             alert("Password is incorrect. Try again.")
         }
